@@ -252,3 +252,8 @@ MIT
 Hashnode article:
 
 https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
+
+## Published Submission
+
+- Hashnode article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
+- X post: https://x.com/fubjou_10022/status/2053711074223075619?s=46

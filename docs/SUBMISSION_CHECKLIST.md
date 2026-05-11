@@ -295,3 +295,23 @@ Minimum viable final state:
 
 Public repo + Hashnode article + #BreakingAppsHackathon + social post
 
+
+## Published Links
+
+Repository:
+
+```txt
+https://github.com/popdeuxrem/breaking-apps-lysergic-passmark
+```
+
+Hashnode article:
+
+```txt
+https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
+```
+
+X post:
+
+```txt
+https://x.com/fubjou_10022/status/2053711074223075619?s=46
+```
