@@ -246,3 +246,9 @@ Links
 License
 
 MIT
+
+## Article
+
+Hashnode article:
+
+https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app

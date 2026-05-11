@@ -11,7 +11,7 @@ Final run:
 0 failed
 The goal was simple: use plain-English testing to catch user-facing regressions before shipping changes.
 Repo: https://github.com/popdeuxrem/breaking-apps-lysergic-passmark
-Article: [paste Hashnode link]
+Article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
 #Playwright #Testing #AI #DevTools
 
 ⸻
@@ -25,7 +25,7 @@ Coverage:
 - mobile usability
 Final run: 3 passed, 0 failed.
 Repo: https://github.com/popdeuxrem/breaking-apps-lysergic-passmark
-Article: [paste Hashnode link]
+Article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
 #Playwright #DevTools
 
 ⸻
@@ -47,7 +47,7 @@ What made this useful:
 - OpenRouter powered the Passmark AI gateway.
 - GitHub Codespaces provided a fast reproducible environment.
 Repo: https://github.com/popdeuxrem/breaking-apps-lysergic-passmark
-Article: [paste Hashnode link]
+Article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
 #BreakingAppsHackathon #Playwright #Testing #AI #DevTools
 
 ⸻
@@ -58,7 +58,7 @@ Submitted for #BreakingAppsHackathon.
 I built a Passmark + Playwright regression suite for my deployed Lysergic Systems web app.
 Final run: 3 passed, 0 failed.
 Repo: https://github.com/popdeuxrem/breaking-apps-lysergic-passmark
-Article: [paste Hashnode link]
+Article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
 
 ⸻
 
@@ -88,12 +88,12 @@ Final run:
 3 passed
 0 failed
 Repo: https://github.com/popdeuxrem/breaking-apps-lysergic-passmark
-Article: [paste Hashnode link]
+Article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
 
 ⸻
 
 Links To Replace Before Posting
 
-Article: [paste Hashnode link]
+Article: https://lysergic-systems.hashnode.dev/breaking-my-developer-system-with-passmark-plain-english-regression-testing-for-a-production-web-app
 
 Replace the placeholder with the final Hashnode URL after publishing.
